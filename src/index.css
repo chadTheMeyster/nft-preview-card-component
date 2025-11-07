@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primaryBlue-500:hsl(215, 51%, 70%);
+  --color-primaryCyan-400:hsl(178, 100%, 50%);
+  --color-neutralBlue-950:hsl(217, 54%, 11%);
+  --color-neutralBlue-900:hsl(216, 50%, 16%);
+  --color-neutralBlue-800:hsl(215, 32%, 27%);
+
+  --font-Outfit: "Outfit", sans-serif;
+}
